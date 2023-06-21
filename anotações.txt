@@ -1,0 +1,3 @@
+npm install nodemon -D
+criar script no package.json com a chave "dev": "nodemon 'endereço_do_arquivo_do_servidor'"
+npm run dev
